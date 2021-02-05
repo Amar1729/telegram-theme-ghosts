@@ -188,7 +188,7 @@ stickers_menu: #EBDBB2
 checkboxSquareCheck: #FFFFFF
 player_progress: #EBDBB2
 avatar_subtitleInProfilePink: #EBDBB2
-chat_stickerReplyMessageText: #6EAAB4
+chat_stickerReplyMessageText: #F27158
 chat_attachLocationBackground: #D75F5F
 chat_inReplyLine: #D75F5F
 chat_inAudioPerfomerSelectedText: #D75F5F
@@ -389,7 +389,7 @@ chat_attachCheckBoxBackground: #39B2F7
 chat_attachVideoIcon: #EBDBB2
 chat_messagePanelIcons: #D75F5F
 inappPlayerTitle: #EBDBB2
-chat_inReplyMediaMessageText: #6EAAB4
+chat_inReplyMediaMessageText: #F27158
 chat_inContactBackground: #EBDBB2
 progressCircle: #EBDBB2
 chat_botKeyboardButtonBackground: #0F202B96
@@ -525,7 +525,7 @@ musicPicker_buttonIcon: #6DAAB4
 chat_outReplyNameText: #EBDBB2
 chats_menuTopBackgroundCats: #598FBA
 chat_textSelectBackground: #EBDBB264
-chat_outReplyMediaMessageText: #6EAAB4
+chat_outReplyMediaMessageText: #F27158
 chat_messagePanelVoiceDelete: #D75F5F
 chat_mediaBroadcast: #FFFFFF
 chat_inAudioProgress: #172F40
