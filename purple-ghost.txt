@@ -413,6 +413,7 @@ chat_outFileBackgroundSelected: #172F40
 chat_outVoiceSeekbarSelected: #FAD652
 chats_mentionIcon: #FFFFFF
 windowBackgroundWhiteGrayIcon: #EBDBB2
+profile_tabSelectedText: #EBDBB2
 avatar_backgroundActionBarViolet: #172F40
 actionBarDefaultTitle: #EBDBB2
 avatar_actionBarIconPink: #EBDBB2
