@@ -231,7 +231,7 @@ dialogBadgeText: #172F40
 chat_outLoaderPhoto: #172F40
 chat_mediaLoaderPhotoIcon: #EBDBB2
 chat_attachPollIcon: #FFFFFF
-chat_emojiPanelStickerSetNameHighlight: #278DDB
+chat_emojiPanelStickerSetNameHighlight: #C89EA4
 chat_botSwitchToInlineText: #6EAAB4
 chat_mediaSentCheck: #D75F5F
 avatar_backgroundInProfilePink: #EBDBB2
@@ -270,7 +270,7 @@ avatar_backgroundRed: #F4836D
 actionBarDefaultArchivedSearch: #FFFFFF
 chat_emojiPanelIconSelector: #EBDBB2
 chat_stickerReplyNameText: #EBDBB2
-chat_emojiPanelBadgeBackground: #4DA6EA
+chat_emojiPanelBadgeBackground: #C89EA4
 chat_inForwardedNameText: #EBDBB2
 chats_sentError: #D75F5F
 groupcreate_checkbox: #EBDBB2
@@ -304,7 +304,7 @@ avatar_actionBarIconCyan: #EBDBB2
 chat_searchPanelIcons: #D75F5F
 chat_inAudioSeekbarSelected: #6EAAB4
 windowBackgroundWhiteLinkText: #FAD652
-chat_emojiPanelStickerPackSelectorLine: #56ABF0
+chat_emojiPanelStickerPackSelectorLine: #C89EA4
 chat_attachPermissionMark: #E25050
 chat_outVenueInfoText: #6EAAB4
 chat_messagePanelPressedSend: #FFFFFF
