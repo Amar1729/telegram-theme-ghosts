@@ -61,7 +61,7 @@ chat_goDownButtonShadow: #EBDBB2
 chat_inFileProgressSelected: #172F40
 chat_emojiSearchBackground: #E5E9EE
 changephoneinfo_image: #6EAAB4
-avatar_backgroundPink: #6EAAB4
+avatar_backgroundPink: #F4836D
 chat_outBroadcast: #46AA36
 musicPicker_checkboxCheck: #172F40
 chat_inAudioPerfomerText: #D75F5F
@@ -140,7 +140,7 @@ profile_status: #D7EAFA
 divider: #00000050
 actionBarDefaultIcon: #D75F5F
 chat_topPanelLine: #D75F5F
-avatar_backgroundViolet: #D75F5F
+avatar_backgroundViolet: #CFAAAF
 chat_botProgress: #EBDBB2
 dialogTopBackground: #6FB2E5
 chat_inReplyMessageText: #F27158
@@ -172,7 +172,7 @@ chat_serviceLink: #EBDBB2
 chat_outPreviewInstantText: #EBDBB2
 location_sendLiveLocationIcon: #FFFFFF
 chat_inMenuSelected: #EBDBB2
-avatar_backgroundOrange: #EBDBB2
+avatar_backgroundOrange: #FBDB68
 avatar_actionBarSelectorGreen: #EBDBB2
 chat_inLoaderSelected: #6EAAB4
 chat_outLocationIcon: #172F40
@@ -224,7 +224,7 @@ switchThumb: #EBDBB2
 windowBackgroundWhiteRedText2: #DB5151
 passport_authorizeBackground: #45ABEF
 chats_nameIcon: #D75F5F
-avatar_backgroundBlue: #D75F5F
+avatar_backgroundBlue: #CFAAAF
 chat_inSentClock: #D75F5F
 avatar_nameInMessageRed: #D75F5F
 dialogBadgeText: #172F40
@@ -266,7 +266,7 @@ chat_botButtonText: #EBDBB2
 dialogCameraIcon: #EBDBB2
 chats_pinnedOverlay: #00000032
 windowBackgroundWhiteInputField: #DCDCDC
-avatar_backgroundRed: #6EAAB4
+avatar_backgroundRed: #F4836D
 actionBarDefaultArchivedSearch: #FFFFFF
 chat_emojiPanelIconSelector: #EBDBB2
 chat_stickerReplyNameText: #EBDBB2
@@ -342,7 +342,7 @@ chat_outUpCall: #00C853
 groupcreate_offlineText: #EBDBB2
 chats_archiveIcon: #FFFFFF
 chat_inVoiceSeekbarSelected: #6EAAB4
-avatar_backgroundCyan: #EBDBB2
+avatar_backgroundCyan: #FBDB68
 dialogTextGray: #EBDBB2
 chat_messageLinkOut: #6EAAB4
 chat_emojiPanelStickerSetName: #6DAAB4
@@ -376,7 +376,7 @@ avatar_subtitleInProfileBlue: #6EAAB4
 featuredStickers_addButton: #50A8EB
 chat_inPreviewLine: #D75F5F
 profile_creatorIcon: #EBDBB2
-avatar_backgroundGreen: #6EAAB4
+avatar_backgroundGreen: #F4836D
 chat_mediaTimeText: #FFFFFF
 avatar_subtitleInProfileGreen: #EBDBB2
 profile_actionBackground: #6EAAB464
