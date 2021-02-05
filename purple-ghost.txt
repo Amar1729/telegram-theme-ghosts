@@ -379,7 +379,7 @@ profile_creatorIcon: #DBBB48
 avatar_backgroundGreen: #F4836D
 chat_mediaTimeText: #FFFFFF
 avatar_subtitleInProfileGreen: #EBDBB2
-profile_actionBackground: #6EAAB464
+profile_actionBackground: #C89EA464
 chats_sentCheck: #FAD652
 chats_unreadCounterMuted: #D75F5F82
 chat_outVoiceSeekbarFill: #EBDBB2
