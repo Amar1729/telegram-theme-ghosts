@@ -496,7 +496,7 @@ dialogInputFieldActivated: #172F40
 chat_attachHideIcon: #EBDBB2
 chat_recordedVoicePlayPause: #969696
 chat_attachPermissionImage: #333333
-chats_actionMessage: #6EAAB4
+chats_actionMessage: #F4836D
 login_progressInner: #E1EAF2
 chat_inLoaderPhotoIcon: #EBDBB2
 chat_addContact: #EBDBB2
@@ -520,7 +520,7 @@ chats_verifiedCheck: #172F40
 chat_attachHideBackground: #D75F5F
 actionBarDefaultArchivedTitle: #FFFFFF
 chats_menuItemText: #D75F5F
-chats_message: #6EAAB4
+chats_message: #F27150
 musicPicker_buttonIcon: #6DAAB4
 chat_outReplyNameText: #EBDBB2
 chats_menuTopBackgroundCats: #598FBA
