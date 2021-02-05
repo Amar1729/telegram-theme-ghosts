@@ -256,7 +256,7 @@ chat_attachUnactiveTab: #92999E
 windowBackgroundWhiteGreenText: #00FF00
 actionBarTabActiveText: #FFFFFF
 chat_emojiPanelIcon: #6EAAB4
-chat_topPanelMessage: #6EAAB4
+chat_topPanelMessage: #F27158
 chat_stickerNameText: #FFFFFF
 chat_emojiSearchIcon: #94A1AF
 chat_emojiPanelTrendingDescription: #EBDBB2
@@ -651,7 +651,7 @@ avatar_subtitleInProfileCyan: #EBDBB2
 chat_serviceText: #EBDBB2
 chat_emojiPanelMasksIcon: #6DAAB4
 chats_attachMessage: #F27158
-chat_topPanelBackground: #172F40
+chat_topPanelBackground: #21214A
 avatar_text: #172F40
 key_changephoneinfo_changeText: #6EAAB4
 chat_outSentClock: #D75F5F
