@@ -145,7 +145,7 @@ chat_botProgress: #EBDBB2
 dialogTopBackground: #6FB2E5
 chat_inReplyMessageText: #F27158
 dialogInputField: #EBDBB2
-windowBackgroundWhiteInputFieldActivated: #6EAAB4
+windowBackgroundWhiteInputFieldActivated: #C89EA4
 chat_attachGalleryBackground: #D75F5F
 chat_outInstantSelected: #EBDBB2
 chat_outSentCheck: #D75F5F
