@@ -375,7 +375,7 @@ chat_inFileInfoText: #EBDBB2
 avatar_subtitleInProfileBlue: #6EAAB4
 featuredStickers_addButton: #50A8EB
 chat_inPreviewLine: #D75F5F
-profile_creatorIcon: #EBDBB2
+profile_creatorIcon: #DBBB48
 avatar_backgroundGreen: #F4836D
 chat_mediaTimeText: #FFFFFF
 avatar_subtitleInProfileGreen: #EBDBB2
