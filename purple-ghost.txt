@@ -124,7 +124,7 @@ avatar_backgroundActionBarBlue: #0F202B
 dialogTextLink: #EBDBB2
 chat_recordTime: #EBDBB2
 chat_previewGameText: #EBDBB2
-chat_status: #D5E8F7
+chat_status: #EADBDD
 changephoneinfo_image2: #50A7EA
 files_folderIconBackground: #172F40
 windowBackgroundWhiteBlueHeader: #EBDBB2
