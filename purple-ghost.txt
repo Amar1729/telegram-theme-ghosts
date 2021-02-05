@@ -84,7 +84,7 @@ dialogGrayLine: #D75F5F
 player_actionBarTitle: #EBDBB2
 chat_outFileIcon: #EBDBB2
 calls_ratingStar: #6DAAB4
-chat_adminText: #6EAAB4
+chat_adminText: #DBBB48
 chats_nameMessage_threeLines: #424449
 picker_badgeText: #FFFFFF
 chat_inFileProgress: #172F40
