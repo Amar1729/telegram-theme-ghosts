@@ -16,7 +16,7 @@ chat_mediaLoaderPhotoSelected: #0000007F
 actionBarActionModeDefaultTop: #172F40
 dialogCheckboxSquareBackground: #EBDBB2
 actionBarActionModeDefault: #0F212C
-chats_menuPhone: #6EAAB4
+chats_menuPhone: #CFAAAF
 sharedMedia_actionMode: #4687B3
 avatar_actionBarIconOrange: #EBDBB2
 sessions_devicesImage: #6DAAB4
@@ -160,7 +160,7 @@ featuredStickers_buttonProgress: #FFFFFF
 contextProgressInner1: #6EAAB4
 chat_inLoaderPhotoIconSelected: #EBDBB2
 contextProgressInner3: #B3B3B3
-actionBarDefaultSubtitle: #6EAAB4
+actionBarDefaultSubtitle: #8C5977
 contextProgressInner2: #BFDFF6
 contextProgressInner4: #CACDD0
 chat_inContactPhoneText: #EBDBB2
