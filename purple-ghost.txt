@@ -650,7 +650,7 @@ dialogRedIcon: #E14D4D
 avatar_subtitleInProfileCyan: #EBDBB2
 chat_serviceText: #EBDBB2
 chat_emojiPanelMasksIcon: #6DAAB4
-chats_attachMessage: #6EAAB4
+chats_attachMessage: #F27158
 chat_topPanelBackground: #172F40
 avatar_text: #172F40
 key_changephoneinfo_changeText: #6EAAB4
