@@ -280,7 +280,7 @@ avatar_nameInMessageGreen: #B65A82
 chat_attachSendIcon: #EBDBB2
 chat_outContactNameText: #D75F5F
 chat_TextSelectionCursor: #54A1DB
-chat_inSiteNameText: #6EAAB4
+chat_inSiteNameText: #8C5977
 chat_linkSelectBackground: #EBDBB232
 chat_attachVideoBackground: #D75F5F
 dialogLinkSelection: #EBDBB232
@@ -311,7 +311,7 @@ chat_messagePanelPressedSend: #FFFFFF
 chat_inUpCall: #FF4848
 chat_outContactPhoneText: #EBDBB2
 chat_inAudioTitleText: #EBDBB2
-chat_messageLinkIn: #6EAAB4
+chat_messageLinkIn: #8C5977
 actionBarDefaultArchivedIcon: #FFFFFF
 dialogFloatingButtonPressed: #4CB4F5
 chats_menuBackground: #0F212C
@@ -337,14 +337,14 @@ returnToCallText: #EBDBB2
 chat_stickersHintPanel: #172F40
 chats_nameMessageArchived_threeLines: #5E5E5E
 windowBackgroundWhite: #211E4A
-chat_outSiteNameText: #6EAAB4
+chat_outSiteNameText: #8C5977
 chat_outUpCall: #00C853
 groupcreate_offlineText: #EBDBB2
 chats_archiveIcon: #FFFFFF
 chat_inVoiceSeekbarSelected: #6EAAB4
 avatar_backgroundCyan: #FBDB68
 dialogTextGray: #EBDBB2
-chat_messageLinkOut: #6EAAB4
+chat_messageLinkOut: #8C5977
 chat_emojiPanelStickerSetName: #6DAAB4
 chats_nameArchived: #525252
 dialogRadioBackgroundChecked: #EBDBB2
