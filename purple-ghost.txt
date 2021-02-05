@@ -9,7 +9,7 @@ dialogTextBlue: #EBDBB2
 windowBackgroundGrayShadow: #00000000
 dialog_inlineProgressBackground: #F0F2F5F6
 chat_inSentClockSelected: #EBDBB2
-windowBackgroundWhiteBlueIcon: #379DE5
+windowBackgroundWhiteBlueIcon: #CFAAAF
 avatar_backgroundActionBarGreen: #172F40
 chat_goDownButtonCounterBackground: #172F40
 chat_mediaLoaderPhotoSelected: #0000007F
@@ -417,7 +417,7 @@ avatar_backgroundActionBarViolet: #172F40
 actionBarDefaultTitle: #EBDBB2
 avatar_actionBarIconPink: #EBDBB2
 profile_verifiedCheck: #172F40
-windowBackgroundWhiteBlueButton: #1E88D3
+windowBackgroundWhiteBlueButton: #CFAAAF
 chat_mediaTimeBackground: #00000066
 chat_secretTimerText: #172F40
 chats_menuName: #D75F5F
@@ -548,7 +548,7 @@ windowBackgroundWhiteBlueText6: #3A8CCF
 calls_callReceivedRedIcon: #FF0000
 chat_outLocationBackground: #172F40
 windowBackgroundWhiteBlueText3: #EBDBB2
-windowBackgroundWhiteBlueText2: #3A95D5
+windowBackgroundWhiteBlueText2: #CFAAAF
 windowBackgroundWhiteBlueText5: #4C8ECA
 windowBackgroundWhiteBlueText4: #E4735D
 chat_attachPermissionText: #6F777A
