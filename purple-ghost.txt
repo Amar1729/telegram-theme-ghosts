@@ -373,7 +373,7 @@ chat_outContactIcon: #172F40
 key_chat_messagePanelVoiceLockShadow: #172F40
 chat_inFileInfoText: #EBDBB2
 avatar_subtitleInProfileBlue: #CFAAAF
-featuredStickers_addButton: #50A8EB
+featuredStickers_addButton: #CFAAAF
 chat_inPreviewLine: #D75F5F
 profile_creatorIcon: #DBBB48
 avatar_backgroundGreen: #F4836D
