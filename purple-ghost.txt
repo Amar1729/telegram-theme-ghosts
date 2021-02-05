@@ -205,7 +205,7 @@ chat_goDownButtonIcon: #D75F5F
 windowBackgroundWhiteRedText6: #FF6666
 windowBackgroundWhiteRedText5: #ED3939
 avatar_actionBarIconRed: #EBDBB2
-chats_onlineCircle: #4BCB1C
+chats_onlineCircle: #FAD652
 featuredStickers_delButtonPressed: #C64949
 chat_outAudioSelectedProgress: #172F40
 chat_messageTextOut: #EBDBB2
@@ -219,7 +219,7 @@ player_actionBar: #0F202B
 chat_messagePanelVoiceDuration: #D75F5F
 chat_fieldOverlayText: #EBDBB2
 chat_messagePanelSend: #D75F5F
-chats_sentReadCheck: #46AA36
+chats_sentReadCheck: #FAD652
 switchThumb: #EBDBB2
 windowBackgroundWhiteRedText2: #DB5151
 passport_authorizeBackground: #45ABEF
@@ -380,7 +380,7 @@ avatar_backgroundGreen: #F4836D
 chat_mediaTimeText: #FFFFFF
 avatar_subtitleInProfileGreen: #EBDBB2
 profile_actionBackground: #6EAAB464
-chats_sentCheck: #EBDBB2
+chats_sentCheck: #FAD652
 chats_unreadCounterMuted: #D75F5F82
 chat_outVoiceSeekbarFill: #EBDBB2
 chat_outReplyLine: #D75F5F
@@ -565,7 +565,7 @@ chat_outMediaIcon: #EFFFDE
 chat_attachContactBackground: #D75F5F
 player_actionBarSubtitle: #EBDBB2
 chat_outAudioCacheSeekbar: #BBE3AC3F
-chats_sentClock: #EBDBB2
+chats_sentClock: #FAD652
 chat_inAudioSeekbar: #6EAAB4
 avatar_subtitleInProfileRed: #EBDBB2
 avatar_backgroundActionBarRed: #172F40
