@@ -572,7 +572,7 @@ avatar_backgroundActionBarRed: #172F40
 dialogSearchIcon: #A1A8AF
 dialogFloatingButton: #4CB4F5
 chat_inPreviewInstantText: #EBDBB2
-chats_archiveBackground: #66A9E0
+chats_archiveBackground: #8C5977
 dialog_liveLocationProgress: #359FE5
 chat_messagePanelVoiceShadow: #D75F5F96
 chat_inViews: #D75F5F
