@@ -552,7 +552,7 @@ windowBackgroundWhiteBlueText2: #CFAAAF
 windowBackgroundWhiteBlueText5: #4C8ECA
 windowBackgroundWhiteBlueText4: #E4735D
 chat_attachPermissionText: #6F777A
-chat_replyPanelMessage: #6EAAB4
+chat_replyPanelMessage: #F27158
 stickers_menuSelector: #0000000F
 chat_inViewsSelected: #EBDBB2
 chat_emojiBottomPanelIcon: #8C9197
