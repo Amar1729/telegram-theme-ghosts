@@ -37,7 +37,7 @@ chat_attachAudioBackground: #D75F5F
 actionBarDefaultSubmenuBackground: #172F40
 switchTrackBlueThumb: #FFFFFF
 avatar_nameInMessageViolet: #D75F5F
-emptyListPlaceholder: #6EAAB4
+emptyListPlaceholder: #CFAAAF
 chat_inAudioSelectedProgress: #172F40
 chats_nameMessage: #EBDBB2
 groupcreate_spanDelete: #FFFFFF
@@ -136,7 +136,7 @@ dialogCheckboxSquareCheck: #172F40
 dialogShadowLine: #00000012
 groupcreate_onlineText: #EBDBB2
 chat_attachMediaBanText: #FFFFFF
-profile_status: #D7EAFA
+profile_status: #D6B6BB
 divider: #00000050
 actionBarDefaultIcon: #D75F5F
 chat_topPanelLine: #D75F5F
@@ -372,7 +372,7 @@ chat_inAudioCacheSeekbar: #E4EAF03F
 chat_outContactIcon: #172F40
 key_chat_messagePanelVoiceLockShadow: #172F40
 chat_inFileInfoText: #EBDBB2
-avatar_subtitleInProfileBlue: #6EAAB4
+avatar_subtitleInProfileBlue: #CFAAAF
 featuredStickers_addButton: #50A8EB
 chat_inPreviewLine: #D75F5F
 profile_creatorIcon: #DBBB48
@@ -401,7 +401,7 @@ chat_outVenueNameText: #6DAAB4
 chat_outBubbleShadow: #F27158
 checkboxSquareBackground: #43A0DF
 chat_mediaSentClock: #FFFFFF
-files_folderIcon: #6DAAB4
+files_folderIcon: #CFAAAF
 chats_menuCloudBackgroundCats: #EBDBB2
 switchTrackBlue: #828E99
 chat_topPanelClose: #D75F5F
