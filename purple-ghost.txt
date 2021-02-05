@@ -26,7 +26,7 @@ avatar_actionBarSelectorCyan: #EBDBB2
 chat_botKeyboardButtonText: #EBDBB2
 chat_outViaBotNameText: #EBDBB2
 profile_actionPressedBackground: #D75F5F
-key_chat_messagePanelVoiceLock: #6EAAB4
+key_chat_messagePanelVoiceLock: #F27158
 chat_secretChatStatusText: #969696
 chats_actionUnreadPressedBackground: #F2F2F2
 switchTrack: #F2715864
@@ -79,7 +79,7 @@ location_sendLiveLocationBackground: #6DAAB4
 windowBackgroundGray: #0F1F2A
 dialog_inlineProgress: #6B7378
 chat_inViaBotNameText: #EBDBB2
-chat_outVoiceSeekbar: #6EAAB4
+chat_outVoiceSeekbar: #FAD652
 dialogGrayLine: #D75F5F
 player_actionBarTitle: #EBDBB2
 chat_outFileIcon: #EBDBB2
@@ -245,7 +245,7 @@ chat_replyPanelLine: #D75F5F
 avatar_subtitleInProfileOrange: #EBDBB2
 chat_outSentCheckSelected: #EBDBB2
 dialogSearchHint: #98A0A7
-chat_inVenueInfoSelectedText: #6EAAB4
+chat_inVenueInfoSelectedText: #F27158
 dialogTextBlue2: #EBDBB2
 actionBarDefaultArchivedSelector: #5E6772
 avatar_backgroundGroupCreateSpanBlue: #EBDBB2B4
@@ -274,7 +274,7 @@ chat_emojiPanelBadgeBackground: #C89EA4
 chat_inForwardedNameText: #EBDBB2
 chats_sentError: #D75F5F
 groupcreate_checkbox: #EBDBB2
-chat_messagePanelVideoFrame: #4BADF7
+chat_messagePanelVideoFrame: #F27158
 chats_actionBackground: #EBDBB2
 avatar_nameInMessageGreen: #B65A82
 chat_attachSendIcon: #EBDBB2
@@ -302,11 +302,11 @@ dialogTextGray2: #6EAAB4
 dialogTextGray4: #B3B3B3
 avatar_actionBarIconCyan: #EBDBB2
 chat_searchPanelIcons: #D75F5F
-chat_inAudioSeekbarSelected: #6EAAB4
+chat_inAudioSeekbarSelected: #FAD652
 windowBackgroundWhiteLinkText: #FAD652
 chat_emojiPanelStickerPackSelectorLine: #C89EA4
 chat_attachPermissionMark: #E25050
-chat_outVenueInfoText: #6EAAB4
+chat_outVenueInfoText: #F27158
 chat_messagePanelPressedSend: #FFFFFF
 chat_inUpCall: #FF4848
 chat_outContactPhoneText: #EBDBB2
@@ -341,7 +341,7 @@ chat_outSiteNameText: #8C5977
 chat_outUpCall: #00C853
 groupcreate_offlineText: #EBDBB2
 chats_archiveIcon: #FFFFFF
-chat_inVoiceSeekbarSelected: #6EAAB4
+chat_inVoiceSeekbarSelected: #FAD652
 avatar_backgroundCyan: #FBDB68
 dialogTextGray: #EBDBB2
 chat_messageLinkOut: #8C5977
@@ -395,7 +395,7 @@ progressCircle: #EBDBB2
 chat_botKeyboardButtonBackground: #0F202B96
 chat_emojiPanelIconSelected: #D75F5F
 chats_menuItemIcon: #EBDBB2
-chat_outVenueInfoSelectedText: #6EAAB4
+chat_outVenueInfoSelectedText: #F27158
 wallpaperFileOffset: #FFFFFF
 chat_outVenueNameText: #6DAAB4
 chat_outBubbleShadow: #F27158
@@ -410,7 +410,7 @@ actionBarBrowser: #FFFFFF
 chats_verifiedBackground: #EBDBB2
 chat_inTimeSelectedText: #EBDBB2
 chat_outFileBackgroundSelected: #172F40
-chat_outVoiceSeekbarSelected: #6EAAB4
+chat_outVoiceSeekbarSelected: #FAD652
 chats_mentionIcon: #FFFFFF
 windowBackgroundWhiteGrayIcon: #EBDBB2
 avatar_backgroundActionBarViolet: #172F40
@@ -423,7 +423,7 @@ chat_secretTimerText: #172F40
 chats_menuName: #D75F5F
 listSelectorSDK21: #D75F5F46
 key_chat_messagePanelVoiceLockBackground: #000000
-chat_outFileNameText: #6EAAB4
+chat_outFileNameText: #F27158
 picker_enabledButton: #19A7E8
 inappPlayerBackground: #172F40
 avatar_backgroundInProfileViolet: #EBDBB2
@@ -448,7 +448,7 @@ sharedMedia_startStopLoadIcon: #36A2EE
 chat_serviceBackgroundSelected: #000000
 inappPlayerPlayPause: #D75F5F
 sharedMedia_photoPlaceholder: #EDF3F7
-chat_inVenueInfoText: #6EAAB4
+chat_inVenueInfoText: #F27158
 chat_replyPanelIcons: #D75F5F
 checkboxSquareDisabled: #B0B0B0
 fastScrollInactive: #6EAAB4
@@ -467,7 +467,7 @@ dialogBadgeBackground: #EBDBB2
 chat_outBubbleSelected: #000000C8
 avatar_backgroundInProfileBlue: #EBDBB2
 chat_lockIcon: #969696
-chat_inFileNameText: #6EAAB4
+chat_inFileNameText: #F27158
 chat_attachEmptyImage: #CCCCCC
 inappPlayerPerformer: #6EAAB4
 chat_inInstantSelected: #EBDBB2
@@ -487,7 +487,7 @@ fastScrollActive: #EBDBB2
 chat_outLoaderPhotoSelected: #172F40
 chat_muteIcon: #969696
 chat_selectedBackground: #00000064
-chat_inAudioDurationText: #6EAAB4
+chat_inAudioDurationText: #F27158
 chat_recordedVoiceBackground: #000000
 chat_secretTimeText: #EBDBB2
 groupcreate_sectionText: #EBDBB2
@@ -564,9 +564,9 @@ chats_message_threeLines: #8E9091
 chat_outMediaIcon: #EFFFDE
 chat_attachContactBackground: #D75F5F
 player_actionBarSubtitle: #EBDBB2
-chat_outAudioCacheSeekbar: #BBE3AC3F
+chat_outAudioCacheSeekbar: #BBA13E3F
 chats_sentClock: #FAD652
-chat_inAudioSeekbar: #6EAAB4
+chat_inAudioSeekbar: #FAD652
 avatar_subtitleInProfileRed: #EBDBB2
 avatar_backgroundActionBarRed: #172F40
 dialogSearchIcon: #A1A8AF
@@ -590,7 +590,7 @@ chat_inAudioDurationSelectedText: #EBDBB2
 avatar_actionBarSelectorRed: #EBDBB2
 player_progressBackground: #F27158
 windowBackgroundWhiteGrayText2: #F27158
-chat_outAudioSeekbarSelected: #6EAAB4
+chat_outAudioSeekbarSelected: #FAD652
 chat_outLoaderPhotoIconSelected: #EBDBB2
 player_actionBarTop: #172F40
 windowBackgroundWhiteGrayText7: #C6C6C6
@@ -617,9 +617,9 @@ chat_sentErrorIcon: #172F40
 checkboxCheck: #FFFFFF
 chat_inVoiceSeekbarFill: #EBDBB2
 graySection: #0F212C
-chat_outAudioSeekbar: #6EAAB4
+chat_outAudioSeekbar: #FAD652
 chats_muteIcon: #969696
-chat_inVoiceSeekbar: #6EAAB4
+chat_inVoiceSeekbar: #FAD652
 chat_outFileProgress: #172F40
 profile_verifiedBackground: #EBDBB2
 chat_outLoader: #D75F5F
@@ -630,7 +630,7 @@ windowBackgroundWhiteGreenText2: #EBDBB2
 chat_replyPanelName: #EBDBB2
 chat_outMediaIconSelected: #E1F8CF
 windowBackgroundWhiteValueText: #F27158
-chat_outAudioDurationText: #6EAAB4
+chat_outAudioDurationText: #F27158
 chat_outMenu: #D75F5F
 avatar_backgroundInProfileGreen: #EBDBB2
 chat_goDownButton: #0A161DC8
