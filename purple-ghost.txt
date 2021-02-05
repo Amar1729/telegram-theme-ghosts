@@ -303,7 +303,7 @@ dialogTextGray4: #B3B3B3
 avatar_actionBarIconCyan: #EBDBB2
 chat_searchPanelIcons: #D75F5F
 chat_inAudioSeekbarSelected: #6EAAB4
-windowBackgroundWhiteLinkText: #6EAAB4
+windowBackgroundWhiteLinkText: #FAD652
 chat_emojiPanelStickerPackSelectorLine: #56ABF0
 chat_attachPermissionMark: #E25050
 chat_outVenueInfoText: #6EAAB4
@@ -557,7 +557,7 @@ stickers_menuSelector: #0000000F
 chat_inViewsSelected: #EBDBB2
 chat_emojiBottomPanelIcon: #8C9197
 chat_mediaProgress: #FFFFFF
-windowBackgroundWhiteLinkSelection: #6DAAB432
+windowBackgroundWhiteLinkSelection: #C89EA432
 player_background: #0F212C
 inappPlayerClose: #D75F5F
 chats_message_threeLines: #8E9091
