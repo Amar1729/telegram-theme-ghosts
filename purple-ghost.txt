@@ -74,7 +74,7 @@ switch2Track: #F57E7E
 chats_menuPhoneCats: #EBDBB2
 dialogScrollGlow: #EBDBB2
 chat_outPreviewLine: #D75F5F
-chat_messagePanelHint: #6EAAB4
+chat_messagePanelHint: #7B4163
 location_sendLiveLocationBackground: #6DAAB4
 windowBackgroundGray: #0F1F2A
 dialog_inlineProgress: #6B7378
@@ -582,7 +582,7 @@ dialogButtonSelector: #EBDBB264
 chat_mediaInfoText: #FFFFFF
 chats_menuItemCheck: #172F40
 chats_archivePinBackground: #9FAAB3
-chat_messagePanelCursor: #54A1DB
+chat_messagePanelCursor: #F27158
 player_actionBarItems: #EBDBB2
 chat_attachFileIcon: #EBDBB2
 chat_sentError: #FF0000
