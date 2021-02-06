@@ -150,7 +150,7 @@ windowBackgroundWhiteInputFieldActivated: #C89EA4
 chat_attachGalleryBackground: #F4836D
 chat_attachGalleryText: #F4836D
 chat_outInstantSelected: #EBDBB2
-chat_outSentCheck: #D75F5F
+chat_outSentCheck: #FAD652
 key_graySectionText: #7F8991
 player_placeholder: #EBDBB2
 chat_outFileSelectedIcon: #D75F5F
