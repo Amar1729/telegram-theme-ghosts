@@ -17,7 +17,7 @@ actionBarActionModeDefaultTop: #172F40
 dialogCheckboxSquareBackground: #EBDBB2
 actionBarActionModeDefault: #0F212C
 chats_menuPhone: #CFAAAF
-sharedMedia_actionMode: #4687B3
+sharedMedia_actionMode: #7B4163
 avatar_actionBarIconOrange: #EBDBB2
 sessions_devicesImage: #6DAAB4
 chat_outViews: #D75F5F
@@ -97,7 +97,7 @@ chat_emojiPanelBackspace: #D75F5F
 featuredStickers_addButtonPressed: #439BDE
 dialogSearchText: #222222
 chat_shareBackgroundSelected: #728FA699
-actionBarTabUnactiveText: #D5E8F7
+actionBarTabUnactiveText: #CFAAAF
 chat_outAudioTitleText: #EBDBB2
 chat_emojiPanelStickerSetNameIcon: #B1B6BC
 chat_emojiPanelBackground: #172F40
