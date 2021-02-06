@@ -112,7 +112,7 @@ dialogCheckboxSquareUnchecked: #EBDBB2
 chat_inMediaIconSelected: #EFF8FE
 chat_attachAudioIcon: #323232
 avatar_backgroundInProfileRed: #EBDBB2
-chat_inBubble: #172F40DC
+chat_inBubble: #0F080FDC
 chat_attachGalleryIcon: #323232
 chat_emojiPanelNewTrending: #00000000
 chat_outSentCheckRead: #FAD652
@@ -517,7 +517,7 @@ player_actionBarSelector: #EBDBB2
 avatar_actionBarIconBlue: #D75F5F
 chat_outTimeText: #D75F5F
 chat_attachAudioText: #CFAAAF
-chat_outBubble: #0F1F2ADC
+chat_outBubble: #1F1019C8
 avatar_backgroundActionBarCyan: #172F40
 chat_attachFileBackground: #CFAAAF
 chat_emojiPanelMasksIconSelected: #6DAAB4
