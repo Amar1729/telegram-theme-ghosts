@@ -543,7 +543,7 @@ key_sheet_scrollUp: #E1E4E8
 chat_attachLocationIcon: #323232
 player_buttonActive: #6EAAB4
 passport_authorizeText: #FFFFFF
-undo_cancelColor: #85CAFF
+undo_cancelColor: #C89EA4
 chat_attachFileText: #CFAAAF
 chat_outLoaderPhotoIcon: #EBDBB2
 chat_outContactBackground: #EBDBB2
