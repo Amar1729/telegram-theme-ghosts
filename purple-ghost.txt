@@ -181,7 +181,7 @@ avatar_actionBarIconViolet: #EBDBB2
 location_liveLocationProgress: #6DAAB4
 dialogTextRed: #FF0000
 chat_inBubbleShadow: #F27158
-chat_attachContactIcon: #EBDBB2
+chat_attachContactIcon: #323232
 chat_outAudioProgress: #172F40
 dialogProgressCircle: #EBDBB2
 chat_outSentCheckReadSelected: #FAD652
