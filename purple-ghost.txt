@@ -102,7 +102,7 @@ chat_outAudioTitleText: #C89EA4
 chat_emojiPanelStickerSetNameIcon: #B1B6BC
 chat_emojiPanelBackground: #172F40
 chats_unreadCounter: #FAD652
-chat_recordedVoiceProgressInner: #EBDBB2
+chat_recordedVoiceProgressInner: #F27158
 groupcreate_hintText: #EBDBB2
 featuredStickers_buttonText: #FFFFFF
 chat_inReplyMediaMessageSelectedText: #EBDBB2
@@ -175,7 +175,7 @@ location_sendLiveLocationIcon: #FFFFFF
 chat_inMenuSelected: #EBDBB2
 avatar_backgroundOrange: #FBDB68
 avatar_actionBarSelectorGreen: #EBDBB2
-chat_inLoaderSelected: #6EAAB4
+chat_inLoaderSelected: #C89EA4
 chat_outLocationIcon: #172F40
 avatar_actionBarIconViolet: #EBDBB2
 location_liveLocationProgress: #6DAAB4
@@ -583,7 +583,7 @@ dialog_liveLocationProgress: #359FE5
 chat_messagePanelVoiceShadow: #D75F5F96
 chat_inViews: #D75F5F
 chats_menuCloud: #000000
-chat_outLoaderSelected: #6EAAB4
+chat_outLoaderSelected: #C89EA4
 dialogButtonSelector: #EBDBB264
 chat_mediaInfoText: #FFFFFF
 chats_menuItemCheck: #172F40
@@ -613,7 +613,7 @@ chat_attachCheckBoxCheck: #FFFFFF
 windowBackgroundWhiteRedText: #CD5A5A
 chat_recordedVoiceDot: #FF0000
 chat_outReplyMessageText: #F27158
-chat_recordedVoiceProgress: #6EAAB4
+chat_recordedVoiceProgress: #FAD652
 chat_messagePanelBackground: #0F1F2A
 chat_inLoaderPhotoSelected: #172F40
 chats_messageArchived: #919191
