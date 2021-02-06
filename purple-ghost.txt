@@ -71,7 +71,7 @@ key_sheet_other: #C9CDD3
 login_progressOuter: #62A0D0
 avatar_backgroundInProfileOrange: #EBDBB2
 chat_inContactNameText: #D75F5F
-switch2Track: #F57E7E
+switch2Track: #F27158
 chats_menuPhoneCats: #EBDBB2
 dialogScrollGlow: #EBDBB2
 chat_outPreviewLine: #D75F5F
@@ -292,7 +292,7 @@ avatar_nameInMessageCyan: #D75F5F
 chat_mediaLoaderPhotoIconSelected: #EBDBB2
 chat_inLocationBackground: #172F40
 contextProgressOuter3: #FFFFFF
-switch2TrackChecked: #52ADE9
+switch2TrackChecked: #C89EA4
 contextProgressOuter4: #2F3438
 radioBackground: #EBDBB2
 actionBarDefaultSearch: #EBDBB2
