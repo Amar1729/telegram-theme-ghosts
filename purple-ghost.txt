@@ -52,7 +52,7 @@ chat_messagePanelCancelInlineBot: #EBDBB2
 dialogSearchBackground: #F2F4F5
 checkbox: #5EC245
 actionBarWhiteSelector: #6DAAB4
-chat_outAudioSeekbarFill: #EBDBB2
+chat_outAudioSeekbarFill: #F27158
 chat_botKeyboardButtonBackgroundPressed: #D75F5F96
 player_time: #EBDBB2
 chat_outTimeSelectedText: #EBDBB2
@@ -98,7 +98,7 @@ featuredStickers_addButtonPressed: #439BDE
 dialogSearchText: #222222
 chat_shareBackgroundSelected: #728FA699
 actionBarTabUnactiveText: #CFAAAF
-chat_outAudioTitleText: #EBDBB2
+chat_outAudioTitleText: #C89EA4
 chat_emojiPanelStickerSetNameIcon: #B1B6BC
 chat_emojiPanelBackground: #172F40
 chats_unreadCounter: #FAD652
@@ -312,7 +312,7 @@ chat_outVenueInfoText: #F27158
 chat_messagePanelPressedSend: #FFFFFF
 chat_inUpCall: #FF4848
 chat_outContactPhoneText: #EBDBB2
-chat_inAudioTitleText: #EBDBB2
+chat_inAudioTitleText: #C89EA4
 chat_messageLinkIn: #8C5977
 actionBarDefaultArchivedIcon: #FFFFFF
 dialogFloatingButtonPressed: #4CB4F5
@@ -384,13 +384,13 @@ avatar_subtitleInProfileGreen: #EBDBB2
 profile_actionBackground: #C89EA464
 chats_sentCheck: #FAD652
 chats_unreadCounterMuted: #D75F5F82
-chat_outVoiceSeekbarFill: #EBDBB2
+chat_outVoiceSeekbarFill: #F27158
 chat_outReplyLine: #D75F5F
-chat_inAudioSeekbarFill: #EBDBB2
+chat_inAudioSeekbarFill: #F27158
 chat_attachCheckBoxBackground: #39B2F7
 chat_attachVideoIcon: #EBDBB2
 chat_messagePanelIcons: #D75F5F
-inappPlayerTitle: #EBDBB2
+inappPlayerTitle: #C89EA4
 chat_inReplyMediaMessageText: #F27158
 chat_inContactBackground: #EBDBB2
 progressCircle: #EBDBB2
@@ -473,7 +473,7 @@ avatar_backgroundInProfileBlue: #EBDBB2
 chat_lockIcon: #969696
 chat_inFileNameText: #F27158
 chat_attachEmptyImage: #CCCCCC
-inappPlayerPerformer: #6EAAB4
+inappPlayerPerformer: #7B4163
 chat_inInstantSelected: #EBDBB2
 chat_inLocationIcon: #172F40
 chat_outFileInfoText: #EBDBB2
@@ -621,7 +621,7 @@ groupcreate_sectionShadow: #172F40
 chat_shareBackground: #728FA666
 chat_sentErrorIcon: #172F40
 checkboxCheck: #FFFFFF
-chat_inVoiceSeekbarFill: #EBDBB2
+chat_inVoiceSeekbarFill: #F27158
 graySection: #0F212C
 chat_outAudioSeekbar: #FAD652
 chats_muteIcon: #969696
