@@ -455,7 +455,7 @@ sharedMedia_photoPlaceholder: #EDF3F7
 chat_inVenueInfoText: #F27158
 chat_replyPanelIcons: #D75F5F
 checkboxSquareDisabled: #B0B0B0
-fastScrollInactive: #6EAAB4
+fastScrollInactive: #CFAAAF
 chat_outSentClockSelected: #EBDBB2
 featuredStickers_addedIcon: #EBDBB2
 chat_recordedVoicePlayPausePressed: #6EAAB4
