@@ -34,7 +34,7 @@ chat_messagePanelVoicePressed: #EBDBB2
 chat_inPreviewInstantSelectedText: #EBDBB2
 location_sendLocationBackground: #6DAAB4
 chat_attachAudioBackground: #CFAAAF
-actionBarDefaultSubmenuBackground: #172F40
+actionBarDefaultSubmenuBackground: #2E1825
 switchTrackBlueThumb: #FFFFFF
 avatar_nameInMessageViolet: #D75F5F
 emptyListPlaceholder: #CFAAAF
@@ -434,7 +434,7 @@ avatar_backgroundInProfileViolet: #EBDBB2
 avatar_nameInMessagePink: #D75F5F
 windowBackgroundWhiteGrayText: #EBDBB2
 musicPicker_buttonBackground: #172F40
-actionBarDefaultSubmenuItemIcon: #676B70
+actionBarDefaultSubmenuItemIcon: #C89EA4
 chat_serviceIcon: #D75F5F
 chats_actionIcon: #172F40
 avatar_actionBarSelectorViolet: #EBDBB2
