@@ -401,7 +401,7 @@ chat_outVenueInfoSelectedText: #F27158
 wallpaperFileOffset: #FFFFFF
 chat_outVenueNameText: #6DAAB4
 chat_outBubbleShadow: #F27158
-checkboxSquareBackground: #43A0DF
+checkboxSquareBackground: #F27158
 chat_mediaSentClock: #FFFFFF
 files_folderIcon: #CFAAAF
 chats_menuCloudBackgroundCats: #EBDBB2
