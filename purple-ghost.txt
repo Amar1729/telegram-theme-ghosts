@@ -241,7 +241,7 @@ chats_nameMessageArchived: #8B8D8F
 avatar_nameInMessageOrange: #D75F5F
 featuredStickers_unread: #CFAAAF
 chats_pinnedIcon: #F27158
-chat_attachActiveTab: #33A7F5
+chat_attachActiveTab: #7B4163
 chat_replyPanelLine: #D75F5F
 avatar_subtitleInProfileOrange: #EBDBB2
 chat_outSentCheckSelected: #EBDBB2
