@@ -50,7 +50,7 @@ avatar_subtitleInProfileViolet: #EBDBB2
 chat_gifSaveHintText: #FFFFFF
 chat_messagePanelCancelInlineBot: #EBDBB2
 dialogSearchBackground: #F2F4F5
-checkbox: #5EC245
+checkbox: #F27158
 actionBarWhiteSelector: #6DAAB4
 chat_outAudioSeekbarFill: #F27158
 chat_botKeyboardButtonBackgroundPressed: #D75F5F96
@@ -318,7 +318,7 @@ actionBarDefaultArchivedIcon: #FFFFFF
 dialogFloatingButtonPressed: #4CB4F5
 chats_menuBackground: #0F212C
 windowBackgroundCheckText: #FFFFFF
-chat_serviceBackground: #0A151CBE
+chat_serviceBackground: #0F080F28
 windowBackgroundWhiteGrayLine: #DCDCDC
 chats_secretIcon: #EBDBB2
 chat_inFileBackground: #172F40
