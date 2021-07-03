@@ -193,7 +193,7 @@ chat_stickerReplyMessageText: #F27158
 chat_attachLocationBackground: #FBDB68
 chat_inReplyLine: #D75F5F
 chat_inAudioPerfomerSelectedText: #D75F5F
-dialogBackground: #0F202B
+dialogBackground: #2E1825
 dialogLineProgressBackground: #6EAAB4
 chat_inReplyNameText: #EBDBB2
 chat_outAudioPerfomerSelectedText: #D75F5F
