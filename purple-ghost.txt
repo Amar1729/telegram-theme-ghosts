@@ -442,7 +442,7 @@ chat_attachPollBackground: #F4836D
 avatar_nameInMessageBlue: #D75F5F
 dialogTextBlack: #EBDBB2
 location_placeLocationBackground: #6DAAB4
-actionBarDefault: #0F202B
+actionBarDefault: #0E070B
 profile_actionIcon: #EBDBB2
 windowBackgroundUnchecked: #9DA7B1
 actionBarDefaultSelector: #EBDBB2C8
