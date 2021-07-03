@@ -94,7 +94,7 @@ chat_emojiPanelEmptyText: #EBDBB2
 chat_inContactPhoneSelectedText: #969696
 chat_replyPanelClose: #D75F5F
 chat_emojiPanelBackspace: #D75F5F
-featuredStickers_addButtonPressed: #439BDE
+featuredStickers_addButtonPressed: #F27158
 dialogSearchText: #222222
 chat_shareBackgroundSelected: #728FA699
 actionBarTabUnactiveText: #CFAAAF
@@ -239,7 +239,7 @@ avatar_backgroundInProfilePink: #EBDBB2
 dialogTextRed2: #DE3A3A
 chats_nameMessageArchived: #8B8D8F
 avatar_nameInMessageOrange: #D75F5F
-featuredStickers_unread: #4DA6EA
+featuredStickers_unread: #CFAAAF
 chats_pinnedIcon: #F27158
 chat_attachActiveTab: #33A7F5
 chat_replyPanelLine: #D75F5F
