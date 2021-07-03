@@ -4,6 +4,8 @@ http://www.facets.la/2013/200/
 
 https://imagecolorpicker.com/
 
+Use https://themes.context.com to save/see your telegram themes.
+
 palette:
 
 | index | color              | hex    |
@@ -22,20 +24,21 @@ palette:
 main colors used: 1 / 2 / 3 / 5 / 10
 
 this should be changed everywhere to highlights (orange/yellow)
+
 light blue: #172F40
 
 
 avatar colors:
-#F4836D
-#CFAAAF
-#FBDB68
+- #F4836D
+- #CFAAAF
+- #FBDB68
 
 
-chat_emojiPanelIcon
-chat_emojiPanelStickerPackSelector
+## things to change
 
+- chat_emojiPanelIcon
+- chat_emojiPanelStickerPackSelector
 
-To change:
-dialog_liveLocationProgress: #359FE5
-sharedMedia_startStopLoadIcon: #36A2EE
-picker_badge: #29B6F7
+- dialog_liveLocationProgress: #359FE5
+- sharedMedia_startStopLoadIcon: #36A2EE
+- picker_badge: #29B6F7
