@@ -4,7 +4,7 @@ http://www.facets.la/2013/200/
 
 https://imagecolorpicker.com/
 
-Use https://themes.context.com to save/see your telegram themes.
+Use https://themes.telegram.org/ to save/see your telegram themes.
 
 palette:
 
